@@ -435,8 +435,8 @@
   "FIELD4": "20/01/2001",
   "FIELD5": "20/01/2009",
   "FIELD6": "Republican ",
-  "FIELD7": "George_W_Bush.jpg",
-  "FIELD8": "thmb_George_W_Bush.jpg",
+  "FIELD7": "https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
+  "FIELD8": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg",
   "FIELD9": "Texas"
 }, {
   "FIELD1": "44",
@@ -445,7 +445,7 @@
   "FIELD4": "20/01/2009",
   "FIELD5": "Incumbent ",
   "FIELD6": "  Democratic   ",
-  "FIELD7": "Barack_Obama.jpg",
-  "FIELD8": "thmb_Barack_Obama.jpg",
+  "FIELD7": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+  "FIELD8": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg",
   "FIELD9": "Illinois"
 }]
