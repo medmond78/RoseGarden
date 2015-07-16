@@ -20,7 +20,12 @@ app.get('/api/:id', function(req, res){
   console.log('Require:', req.params.id);
   res.json(myData[req.params.id]);
   });
-
+  
+app.get('/api/:id/:property', function(req, res) {
+var response = {};
+  response[req.params.property] = myData[req.params.id][req.params.property]
+res.json(response);
+});
 
 // 404 catch-all handler (middleware)
 app.use(function(req, res, next) {
